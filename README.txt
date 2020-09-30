@@ -12,7 +12,7 @@ communication for both direction. Since a proxy server acts just as a
 normal Minecraft server, there's no client or server-side modification
 needed.  The client can simply connect to the proxy server as if it
 was a real server. The information through the proxy can be captured
-and recorded on a disk.
+and recorded on a disk and as course shitty shit.
 
 
 Current supported version:
